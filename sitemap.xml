@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://Sophrinix.github.com/blog/2012/03/19/appcelerator-tdd/</loc>
+        <lastmod>2012-03-19T17:16:07-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://Sophrinix.github.com/blog/2012/03/19/unix-principles-which-enable-gnu-screen-to-work/
+        </loc>
+        <lastmod>2012-03-19T17:17:16-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://Sophrinix.github.com/blog/archives/</loc>
-        <lastmod>2012-03-19T15:49:16-05:00</lastmod>
+        <lastmod>2012-03-19T17:17:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://Sophrinix.github.com/</loc>
-        <lastmod>2012-03-19T15:49:16-05:00</lastmod>
+        <lastmod>2012-03-19T17:17:16-05:00</lastmod>
     </url>
 </urlset>

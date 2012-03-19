@@ -4,7 +4,7 @@
   <title><![CDATA[Sophrinix Blog]]></title>
   <link href="http://Sophrinix.github.com/atom.xml" rel="self"/>
   <link href="http://Sophrinix.github.com/"/>
-  <updated>2012-03-19T16:59:15-05:00</updated>
+  <updated>2012-03-19T17:17:22-05:00</updated>
   <id>http://Sophrinix.github.com/</id>
   <author>
     <name><![CDATA[Andrew McElroy]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unix Principles which enable GNU screen to work]]></title>
+    <link href="http://Sophrinix.github.com/blog/2012/03/19/unix-principles-which-enable-gnu-screen-to-work/"/>
+    <updated>2012-03-19T17:17:00-05:00</updated>
+    <id>http://Sophrinix.github.com/blog/2012/03/19/unix-principles-which-enable-gnu-screen-to-work</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[appcelerator tdd]]></title>
+    <link href="http://Sophrinix.github.com/blog/2012/03/19/appcelerator-tdd/"/>
+    <updated>2012-03-19T17:16:00-05:00</updated>
+    <id>http://Sophrinix.github.com/blog/2012/03/19/appcelerator-tdd</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
