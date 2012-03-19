@@ -4,7 +4,7 @@
   <title><![CDATA[Sophrinix Blog]]></title>
   <link href="http://Sophrinix.github.com/atom.xml" rel="self"/>
   <link href="http://Sophrinix.github.com/"/>
-  <updated>2012-03-19T17:41:06-05:00</updated>
+  <updated>2012-03-19T17:42:11-05:00</updated>
   <id>http://Sophrinix.github.com/</id>
   <author>
     <name><![CDATA[Andrew McElroy]]></name>
@@ -27,7 +27,7 @@
     <link href="http://Sophrinix.github.com/blog/2012/03/19/appcelerator-tdd/"/>
     <updated>2012-03-19T17:16:00-05:00</updated>
     <id>http://Sophrinix.github.com/blog/2012/03/19/appcelerator-tdd</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Actual content coming. I am trying to sort why there is such a delay between when i deploy and when gh-pages picks up the slack</p>
 ]]></content>
   </entry>
   
